@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ddgit25/skaro/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
 https://vavoo.to/play/1225653759/index.m3u8&h_User-Agent=VAVOO2%2F6&h_Referer=https%3A%2F%2Fvavoo.to%2F&h_Origin=https%3A%2F%2Fvavoo.to
@@ -1390,7 +1390,7 @@ https://vavoo.to/play/2989824407/index.m3u8&h_User-Agent=VAVOO2%2F6&h_Referer=ht
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefaeurou21slovakiau21vsitalyu21" tvg-name="Soccer | UEFA Euro U-21 : Slovakia U21 vs Italy U21 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Slovakia U21_vs_Italy U21.png" group-title="Eventi Live",Soccer | UEFA Euro U-21 : Slovakia U21 vs Italy U21 (21:00)
+#EXTINF:-1 tvg-id="uefaeurou21slovakiau21vsitalyu21" tvg-name="Soccer | UEFA Euro U-21 : Slovakia U21 vs Italy U21 (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Slovakia U21_vs_Italy U21.png" group-title="Eventi Live",Soccer | UEFA Euro U-21 : Slovakia U21 vs Italy U21 (21:00)
 https://daddylive.dad/stream/stream-851.php
 
 #EXTINF:-1 tvg-id="fiawecround424hoursoflemansracepart1" tvg-name="Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 1 (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/45/3/fia-formula-one-world-championship-logo-png_seeklogo-457496.png" group-title="Eventi Live",Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 1 (15:00)
@@ -1399,22 +1399,22 @@ https://daddylive.dad/stream/stream-878.php
 #EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixpractice3" tvg-name="Motorsport | Formula 1 : Pirelli Canadian Grand Prix - Practice 3 (18:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Pirelli Canadian Grand Prix - Practice 3 (18:30)
 https://daddylive.dad/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixqualifying" tvg-name="Motorsport | Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)
+#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixqualifying" tvg-name="Motorsport | Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Eventi Live",Motorsport | Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)
 https://daddylive.dad/stream/stream-577.php
 
 #EXTINF:-1 tvg-id="fiawecround424hoursoflemansracepart2" tvg-name="Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2014/02/Logo-FIA-World-Endurance-Championship.png" group-title="Eventi Live",Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)
 https://daddylive.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="italyserieavirtusbolognavspallacanestrobrescia" tvg-name="Basketball | Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Bologna_vs_Pallacanestro Brescia.png" group-title="Eventi Live",Basketball | Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia (20:30)
+#EXTINF:-1 tvg-id="italyserieavirtusbolognavspallacanestrobrescia" tvg-name="Basketball | Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia (20:30)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Virtus Bologna_vs_Pallacanestro Brescia.png" group-title="Eventi Live",Basketball | Italy Serie A : Virtus Bologna vs. Pallacanestro Brescia (20:30)
 https://daddylive.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="europeanchampionships2025day1womensfoilandmenssabrefinalsfromgenoa" tvg-name="Fencing | European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012.png" group-title="Eventi Live",Fencing | European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)
+#EXTINF:-1 tvg-id="europeanchampionships2025day1womensfoilandmenssabrefinalsfromgenoa" tvg-name="Fencing | European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)" tvg-logo="https://www.economiaesport.it/wp-content/uploads/2025/03/78ccea67-84b4-470a-8cf1-62cf40869689.png" group-title="Eventi Live",Fencing | European Championships 2025 - Day 1: Women's Foil and Men's Sabre Finals (from Genoa) (18:20)
 https://daddylive.dad/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="unitedrugbychampionshipfinalleinstervsbulls" tvg-name="Rugby Union | United Rugby Championship Final : Leinster vs Bulls (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leinster_vs_Bulls.png" group-title="Eventi Live",Rugby Union | United Rugby Championship Final : Leinster vs Bulls (18:00)
+#EXTINF:-1 tvg-id="unitedrugbychampionshipfinalleinstervsbulls" tvg-name="Rugby Union | United Rugby Championship Final : Leinster vs Bulls (18:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Leinster_vs_Bulls.png" group-title="Eventi Live",Rugby Union | United Rugby Championship Final : Leinster vs Bulls (18:00)
 https://daddylive.dad/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="t100triathlonworldtourvancouvermen" tvg-name="Triathlon | T100 Triathlon World Tour | Vancouver Men (18:15)" tvg-logo="https://content.protriathletes.org/content/images/2024/05/5d9bcc44-e81b-4472-b529-80eddce9ddec.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | Vancouver Men (18:15)
+#EXTINF:-1 tvg-id="t100triathlonworldtourvancouvermen" tvg-name="Triathlon | T100 Triathlon World Tour | Vancouver Men (18:15)" tvg-logo="https://content.protriathletes.org/content/images/2025/04/062398ec-0332-4627-b0c0-cbb21ecfe3b0.png" group-title="Eventi Live",Triathlon | T100 Triathlon World Tour | Vancouver Men (18:15)
 https://daddylive.dad/stream/stream-879.php
 
 
