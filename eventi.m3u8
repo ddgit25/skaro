@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefau19europeanchampionshipwomensemifinal1spainu19vsitalyu19" tvg-name="Soccer | UEFA U19 European Championship Women Semi Final 1 : Spain U19 vs Italy U19 (17:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Spain U19_vs_Italy U19.png" group-title="Eventi Live",Soccer | UEFA U19 European Championship Women Semi Final 1 : Spain U19 vs Italy U19 (17:00)
-https://daddylive.dad/stream/stream-882.php
-
 #EXTINF:-1 tvg-id="fifaclubworldcupbenficavsbayernmnchen" tvg-name="Soccer | FIFA Club World Cup : Benfica vs Bayern München (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Benfica_vs_Bayern München.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Benfica vs Bayern München (21:00)
 https://daddylive.dad/stream/stream-1.php
 
