@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifaclubworldcupatlticomadridvsbotafogo" tvg-name="Soccer | FIFA Club World Cup : Atlético Madrid vs Botafogo (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Atlético Madrid_vs_Botafogo.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Atlético Madrid vs Botafogo (21:00)
-https://daddylive.dad/stream/stream-4.php
+#EXTINF:-1 tvg-id="uefau19europeanchampionshipwomensemifinal1franceu19vsportugalu19" tvg-name="Soccer | UEFA U19 European Championship Women Semi Final 1 : France U19 vs Portugal U19 (17:00)" tvg-logo="https://old.statarea.com/images/teams/embl/4106.png" group-title="Eventi Live",Soccer | UEFA U19 European Championship Women Semi Final 1 : France U19 vs Portugal U19 (17:00)
+https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="fifaclubworldcupbenficavsbayernmnchen" tvg-name="Soccer | FIFA Club World Cup : Benfica vs Bayern München (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Benfica_vs_Bayern München.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Benfica vs Bayern München (21:00)
+https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="eurobasketwquarterfinals1francewvslithuaniaw" tvg-name="Basketball | EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W (16:30)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/France W_vs_Lithuania W.png" group-title="Eventi Live",Basketball | EUROBASKET (W) Quarter-finals 1 : France W vs Lithuania W (16:30)
+https://daddylive.dad/stream/stream-882.php
 
