@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIFAClubWorldCupBenficavsBayernMnchen">
-    <display-name>FIFA Club World Cup : Benfica vs Bayern München</display-name>
-  </channel>
-  <programme start="20250624000000 +0200" stop="20250624210000 +0200" channel="FIFAClubWorldCupBenficavsBayernMnchen">
-    <title lang="it">IniziaÂ  alle 21:00.</title>
-    <desc lang="it">FIFA Club World Cup : Benfica vs Bayern München.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250624210000 +0200" stop="20250624230000 +0200" channel="FIFAClubWorldCupBenficavsBayernMnchen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : Benfica vs Bayern München</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="FIFAClubWorldCupInternazionalevsRiverPlate">
     <display-name>FIFA Club World Cup : Internazionale vs River Plate</display-name>
   </channel>
