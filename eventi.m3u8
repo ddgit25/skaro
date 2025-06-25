@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifaclubworldcupbenficavsbayernmnchen" tvg-name="Soccer | FIFA Club World Cup : Benfica vs Bayern München (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Benfica_vs_Bayern München.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Benfica vs Bayern München (21:00)
+#EXTINF:-1 tvg-id="uefaeurou21englandu21vsnetherlandsu21" tvg-name="Soccer | UEFA Euro U21 : England U21 vs Netherlands U21 (18:00)" group-title="Eventi Live",Soccer | UEFA Euro U21 : England U21 vs Netherlands U21 (18:00)
+https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="uefaeurou21semifinal2germanyu21vsfranceu21" tvg-name="Soccer | UEFA Euro U21: Semi Final 2 : Germany U21 vs France U21 (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Semi Final 2 : Germany U21_vs_France U21.png" group-title="Eventi Live",Soccer | UEFA Euro U21: Semi Final 2 : Germany U21 vs France U21 (21:00)
+https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="fifaclubworldcupinternazionalevsriverplate" tvg-name="Soccer | FIFA Club World Cup : Internazionale vs River Plate (03:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Internazionale_vs_River Plate.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Internazionale vs River Plate (03:00)
 https://daddylive.dad/stream/stream-1.php
 
