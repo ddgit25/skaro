@@ -5,15 +5,9 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="fifaclubworldcupflamengovsbayernmnchen" tvg-name="Soccer | FIFA Club World Cup : Flamengo vs Bayern München (22:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Flamengo_vs_Bayern München.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Flamengo vs Bayern München (22:00)
 https://daddylive.dad/stream/stream-15.php
 
-#EXTINF:-1 tvg-id="formula1msccruisesaustriangprace" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Race (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises Austrian GP - Race (15:00)
-https://daddylive.dad/stream/stream-577.php
-
 #EXTINF:-1 tvg-id="europeanchampionshipwfinalspainwvsbelgiumw" tvg-name="Basketball | European Championship (W) Final : Spain W vs Belgium W (19:30)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Spain W_vs_Belgium W.png" group-title="Eventi Live",Basketball | European Championship (W) Final : Spain W vs Belgium W (19:30)
 https://daddylive.dad/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="worldcupinnsbruckmenswomensleadfinal" tvg-name="Climbing | World Cup | Innsbruck Men's & Women's Lead | Final (19:15)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Eventi Live",Climbing | World Cup | Innsbruck Men's & Women's Lead | Final (19:15)
 https://daddylive.dad/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="worldchampionshipu20australiau20vssouthafricau20" tvg-name="Rugby Union | World Championship U20 : Australia U20 vs South Africa U20 (15:30)" tvg-logo="https://all.rugby/img/logo/clubs/springboksu20.png" group-title="Eventi Live",Rugby Union | World Championship U20 : Australia U20 vs South Africa U20 (15:30)
-https://daddylive.dad/stream/stream-882.php
 
