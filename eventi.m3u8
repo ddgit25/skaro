@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefawomenseuroicelandvsfinland" tvg-name="Soccer | UEFA Women's Euro : Iceland vs Finland (18:00)" group-title="Eventi Live",Soccer | UEFA Women's Euro : Iceland vs Finland (18:00)
+#EXTINF:-1 tvg-id="uefawomenseuroicelandvsfinland" tvg-name="Soccer | UEFA Women's Euro : Iceland vs Finland (18:00)" tvg-logo="https://images.easyfundraising.org.uk/retailer/cropped/logo-iceland-groceries-1686132325.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Iceland vs Finland (18:00)
 https://daddylive.dad/stream/stream-5.php
 
 #EXTINF:-1 tvg-id="uefawomenseuroswitzerlandvsnorway" tvg-name="Soccer | UEFA Women's Euro : Switzerland vs Norway (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Switzerland_vs_Norway.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Switzerland vs Norway (21:00)
