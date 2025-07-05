@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefawomenseurowalesvsnetherlands" tvg-name="Soccer | UEFA Women's Euro : Wales vs Netherlands (18:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Wales_vs_Netherlands.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Wales vs Netherlands (18:00)
-https://daddylive.dad/stream/stream-882.php
-
 #EXTINF:-1 tvg-id="uefawomenseurofrancevsengland" tvg-name="Soccer | UEFA Women's Euro : France vs England (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/France_vs_England.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : France vs England (21:00)
 https://daddylive.dad/stream/stream-1.php
 
@@ -20,6 +17,6 @@ https://daddylive.dad/stream/stream-878.php
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipsearlyroundcoverageday6" tvg-name="Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)
 https://daddylive.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="jumpingmonacoglobalchampionstourevent8" tvg-name="Equestrian | Jumping | Monaco Global Champions Tour | Event 8 (20:00)" tvg-logo="https://wallpapers.com/images/hd/jumping-kangaroo-png-05212024-blnf9zcpadznm2b8.png" group-title="Eventi Live",Equestrian | Jumping | Monaco Global Champions Tour | Event 8 (20:00)
+#EXTINF:-1 tvg-id="jumpingmonacoglobalchampionstourevent8" tvg-name="Equestrian | Jumping | Monaco Global Champions Tour | Event 8 (20:00)" tvg-logo="https://wallpapers.com/images/hd/jumping-dolphins-png-msa11-zkozgrf5rwn8bq1z.png" group-title="Eventi Live",Equestrian | Jumping | Monaco Global Champions Tour | Event 8 (20:00)
 https://daddylive.dad/stream/stream-878.php
 
