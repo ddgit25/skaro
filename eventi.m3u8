@@ -5,18 +5,6 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="uefawomenseuronorwayvsfinland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Finland (18:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Norway_vs_Finland.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Finland (18:00)
 https://daddylive.dad/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsearlyroundcoverageday7" tvg-name="Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 7 (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 7 (10:00)
-https://daddylive.dad/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsearlyroundcoverageday7" tvg-name="Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 7 (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 7 (10:00)
-https://daddylive.dad/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsearlyroundcoverageday7" tvg-name="Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 7 (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 7 (10:00)
-https://daddylive.dad/stream/stream-879.php
-
-#EXTINF:-1 tvg-id="formula3qatarairwaysbritishgprace" tvg-name="Motorsport | Formula 3 : Qatar Airways British GP - Race (10:30)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsport | Formula 3 : Qatar Airways British GP - Race (10:30)
-https://daddylive.dad/stream/stream-577.php
-
 #EXTINF:-1 tvg-id="formula2qatarairwaysbritishgprace" tvg-name="Motorsport | Formula 2 : Qatar Airways British GP - Race (12:30)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsport | Formula 2 : Qatar Airways British GP - Race (12:30)
 https://daddylive.dad/stream/stream-577.php
 
@@ -29,7 +17,7 @@ https://daddylive.dad/stream/stream-577.php
 #EXTINF:-1 tvg-id="giroditaliawomenstage1bergamobergamotudoritt142km" tvg-name="Cycling | Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km) (12:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Giro d'Italia Women | Stage 1 Bergamo - Bergamo Tudor (ITT, 14.2km) (12:45)
 https://daddylive.dad/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="ucidownhillworldcupmenelitelathuilemountainbike" tvg-name="Cycling | UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike (14:00)" tvg-logo="https://misspentsummers.com/wp-content/uploads/2021/12/dyedbro.png" group-title="Eventi Live",Cycling | UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike (14:00)
+#EXTINF:-1 tvg-id="ucidownhillworldcupmenelitelathuilemountainbike" tvg-name="Cycling | UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike (14:00)" tvg-logo="https://proximus-cyclis-alphamotorhomes.be/wp-content/uploads/2022/11/Logo-team-2020-2021-1.png" group-title="Eventi Live",Cycling | UCI Downhill World Cup | Men Elite | La Thuile Mountain Bike (14:00)
 https://daddylive.dad/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="premierpadelbordeauxt2025womensfinal" tvg-name="Squash | Premier Padel. Bordeaux (T2025): Women's Final (14:00)" tvg-logo="https://www.betclic-bordeaux-premierpadel.com/wp-content/uploads/2024/02/cropped-100padel-logo-CMJN-HD.png" group-title="Eventi Live",Squash | Premier Padel. Bordeaux (T2025): Women's Final (14:00)
