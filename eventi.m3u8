@@ -2,6 +2,24 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefawomenseuroportugalvsitaly" tvg-name="Soccer | UEFA Women's Euro : Portugal vs Italy (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Portugal_vs_Italy.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Portugal vs Italy (21:00)
-https://daddylive.dad/stream/stream-851.php
+#EXTINF:-1 tvg-id="uefawomenseurogermanyvsdenmark" tvg-name="Soccer | UEFA Women's Euro : Germany vs Denmark (18:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Germany_vs_Denmark.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Germany vs Denmark (18:00)
+https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="uefawomenseuropolandvssweden" tvg-name="Soccer | UEFA Women's Euro : Poland vs Sweden (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Poland_vs_Sweden.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Poland vs Sweden (21:00)
+https://daddylive.dad/stream/stream-15.php
+
+#EXTINF:-1 tvg-id="fifaclubworldcupfluminensevschelsea" tvg-name="Soccer | FIFA Club World Cup : Fluminense vs Chelsea (21:00)" tvg-logo="https://raw.githubusercontent.com/ddgit25/skaro/main/logos/Fluminense_vs_Chelsea.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Fluminense vs Chelsea (21:00)
+https://daddylive.dad/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)
+https://daddylive.dad/stream/stream-576.php
+
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)
+https://daddylive.dad/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)
+https://daddylive.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="worldcup2025lonatodelgardawomensskeet" tvg-name="Shooting | World Cup 2025-Lonato del Garda: Women's Skeet (14:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/09/FIFA-Club-World-Cup-2025-Logo.png" group-title="Eventi Live",Shooting | World Cup 2025-Lonato del Garda: Women's Skeet (14:45)
+https://daddylive.dad/stream/stream-882.php
 
